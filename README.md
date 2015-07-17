@@ -1,5 +1,5 @@
-PyBitmessage
-============
+PyBitmessageF2F
+===========
 
 Bitmessage is a P2P communications protocol used to send encrypted messages to
 another person or to many subscribers. It is decentralized and trustless,
@@ -9,6 +9,8 @@ message cannot be spoofed, and it aims to hide "non-content" data, like the
 sender and receiver of messages, from passive eavesdroppers like those running
 warrantless wiretapping programs.
 
+In this version the default known nodes have been removed and the PoW difficulty
+decreased to make the client more suitable for a friend to friend netork.
 
 Development
 ----------
